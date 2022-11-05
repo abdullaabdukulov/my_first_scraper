@@ -3,8 +3,7 @@
 
 # Introduction
 
-<img width="400" alt="image" src=![image](https://user-images.githubusercontent.com/95611906/200126822-7e81f8e7-ecbe-439d-8be1-6721dc34901e.png)>
-
+<img width="495" alt="meme_scraping" src="https://user-images.githubusercontent.com/95611906/200126969-42bdcb8b-b0ab-4a29-9fb2-d21a3bc5d2f2.png">
 
 <a href="https://github.com/trending">Github trending's page</a>
 
