@@ -1,5 +1,5 @@
 # my_first_scraper
-project in python programming language
+
 
 <a href="https://abdullaabdukulov-my-first-scraper-app-1p3avr.streamlit.app/">on the website</a>
 
