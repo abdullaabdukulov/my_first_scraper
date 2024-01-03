@@ -67,7 +67,7 @@ def transform(html_repos):
     """
     result = []
     for row in html_repos:
-        REPOSITORY_NAME = ''.join(row.select_one('h1.h3.lh-condensed').text.split()).split('/')[1]
+        REPOSITORY_NAME = ''.join(row.select_one('h2.h3.lh-condensed').text.split()).split('/')[1]
         NBR_STARS = ' '.join(row.select_one('a.Link--muted.d-inline-block.mr-3').text.split())
 
         try:
