@@ -1,2 +1,5 @@
 beautifulsoup4==4.12.2
 requests==2.31.0
+streamlit==1.29.0
+plotly-express==0.4.1
+pandas==2.1.4
